@@ -1,0 +1,9 @@
+{
+	"name": "Factory-Labs",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5035791e-6dc8-4eb8-979b-c02dd4efe82b",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
